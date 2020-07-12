@@ -25,5 +25,5 @@ The code above will redirect you to Metro Bundler in your local host. You may ru
 
 # Further information
 
-View the <a href="https://youtu.be/Ylbw1b5ivSQ" target="_blank">video</a> of the web app to understand its features.
+View the [video](https://youtu.be/Ylbw1b5ivSQ){:target="_blank"} of the web app to understand its features.
 
