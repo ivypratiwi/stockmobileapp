@@ -1,7 +1,7 @@
 # StockApp
 StockApp is a mobile application to search and add stocks to watchlist. This mobile app is built using React Native and Expo. User can add the stocks to their stock watchlist. When the user shuts down the app, their watchlist will still be available. 
 
-This is the full version of the code and fetch API from QUT Server. If you do not have a QUT account to access the QUT network, please use the [version]() with dummy data.
+This is the full version of the code and fetch API from QUT Server. If you do not have a QUT account to access the QUT network, please use the [version](https://github.com/ivypratiwi/stockmobileapp_v2) with dummy data.
 
 # Technologies and Libraries used:
    - React Native
